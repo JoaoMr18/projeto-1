@@ -73,3 +73,7 @@ border-bottom: 4px solid var(--verde);
         border-radius: 0 40px 0 0;
     }
 }
+
+.abas-textos{
+    background-color: var(--texto-fundo);
+}
